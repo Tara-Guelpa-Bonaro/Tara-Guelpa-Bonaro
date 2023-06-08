@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Tara-Guelpa-Bonaro
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me : tara.guelpa@gmail.com
+
 
 <!---
 Tara-Guelpa-Bonaro/Tara-Guelpa-Bonaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
